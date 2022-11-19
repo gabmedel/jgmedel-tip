@@ -1,5 +1,5 @@
 
-Name: John Gabriel S. Medel
+# Name: John Gabriel S. Medel
 Field of Expertise: Systems Administration
 ## Contact Information
 Email: mjgsmedel@tip.edu.ph
